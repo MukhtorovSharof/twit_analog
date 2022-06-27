@@ -1,0 +1,18 @@
+.app {
+  margin: 50px auto;
+  max-width: 700px;
+  box-shadow: 1px 8px 16px rgba(0, 0, 0, .6);
+  background-color: #fff;
+  padding: 20px;
+  max-height: 520px;
+}
+
+.search-panel {
+  margin: 1rem 0;
+}
+
+.search-panel .search-input {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
